@@ -44,6 +44,8 @@ img_lbl.pack()
 
 l1 = Label(program, text="IP Information Gathering")
 l1.pack()
+l4 = Label(program, text="Programming by cpu-astatine")
+l4.pack()
 
 t1 = Text(program, width=35, height=1)
 t1.pack()
