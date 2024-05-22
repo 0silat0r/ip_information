@@ -4,5 +4,4 @@
 <code>pip install -r requirements.txt</code><br/>
 Teşekkürler!<br/>
 <strong>Program'dan Bir Görünüm</strong><br/>
-![Screenshot from 2024-05-22 03-13-10](https://github.com/cpu-astatine/ip_information/assets/87228325/819e864b-b9ab-4777-a740-47c5a9805adf)
 <img src="https://github.com/cpu-astatine/ip_information/assets/87228325/819e864b-b9ab-4777-a740-47c5a9805adf">
