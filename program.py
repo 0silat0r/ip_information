@@ -32,7 +32,7 @@ def print():
     t1.delete("1.0","end")
 
 program = tkinter.Tk()
-program.geometry('380x350')
+program.geometry('380x500')
 program.title("IP Information Gathering")
 
 img = Image.open("pictures/network_logo.png")
@@ -57,5 +57,7 @@ b3.pack()
 
 l4 = Label(program, text="Programming by cpu-astatine")
 l4.pack()
+l5 = Label(program, text="\n")
+l5.pack()
 
 program.mainloop()
